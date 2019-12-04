@@ -28,6 +28,6 @@
 ![salary barplot](https://github.com/L0per/SQL-Challenge/blob/master/Images/bar_title_salaries.png?raw=true)
 
 ### April Fools
-* It's indeed faricated:
+* It's indeed fabricated:
 
 ![aprilfools](https://github.com/L0per/SQL-Challenge/blob/master/Images/aprilfools.PNG?raw=true)
